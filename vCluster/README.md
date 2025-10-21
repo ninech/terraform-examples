@@ -1,6 +1,6 @@
 # Terraform Kubernetes cluster example
 
-How to create a Kubernetes cluster with Terraform:
+How to create a Kubernetes vCluster with Terraform:
 
 * Review and adjust the credentials in [providers.tf](./providers.tf).
 * Apply the module.
